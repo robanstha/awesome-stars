@@ -24,7 +24,7 @@
 
 ## HTML 
 
-- [robanstha/base-angular-container](https://github.com/robanstha/base-angular-container) - 
+- [robanstha/base-angular-container](https://github.com/robanstha/base-angular-container) - A streamlined, production-ready container base for Angular applications, engineered to enhance efficiency and facilitate deployment. This repository provides a robust foundation for developers aiming 
 
 ## Java 
 
@@ -44,7 +44,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
-- [robanstha/base-django-container](https://github.com/robanstha/base-django-container) - 
+- [robanstha/base-django-container](https://github.com/robanstha/base-django-container) - A base Docker container setup for Django applications with Django REST Framework, ready for development and deployment.
 
 ## TypeScript 
 
