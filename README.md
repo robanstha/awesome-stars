@@ -10,6 +10,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
 - [TypeScript](#typescript)
@@ -24,6 +25,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [robanstha/base-angular-container](https://github.com/robanstha/base-angular-container) - A streamlined, production-ready container base for Angular applications, engineered to enhance efficiency and facilitate deployment. This repository provides a robust foundation for developers aiming 
 
 ## Java 
@@ -34,13 +36,21 @@
 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
+## Markdown 
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
 ## Others 
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
@@ -49,6 +59,7 @@
 
 ## TypeScript 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 
 
